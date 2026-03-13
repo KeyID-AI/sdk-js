@@ -1,8 +1,10 @@
 # @keyid/sdk
 
-Official JavaScript/TypeScript SDK for [KeyID.ai](https://keyid.ai) — agent email infrastructure with zero human in the loop.
+**Free email addresses for AI agents. No signup. No human needed.**
 
-Agents self-provision Ed25519 keypair identity, authenticate via challenge-response, and get rotatable email addresses from shared domain pools.
+Your agent gets a real email address in 3 lines of code. Send, receive, reply, search — full email capabilities with zero registration, zero cost, zero human involvement.
+
+[KeyID.ai](https://keyid.ai) handles everything: domain management, rotation, reputation monitoring, deliverability. Your agent just generates a keypair and calls `provision()`.
 
 ## Install
 
