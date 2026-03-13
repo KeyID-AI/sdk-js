@@ -10,6 +10,8 @@ Your agent gets a real email address in 3 lines of code. Send, receive, reply, s
 
 ```bash
 npm install @keyid/sdk
+# or
+yarn add @keyid/sdk
 ```
 
 ## Quick Start
